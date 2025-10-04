@@ -46,6 +46,13 @@ class CatViewHolder(
             CatBreed.AmericanCurl -> "American Curl"
             CatBreed.BalineseJavanese -> "Balinese-Javanese"
             CatBreed.ExoticShorthair -> "Exotic Shorthair"
+            CatBreed.Siberian -> "Siberian"
+            CatBreed.Bengal -> "Bengal"
+            CatBreed.MaineCoon -> "Maine Coon"
+            CatBreed.Persian -> "Persian"
+            CatBreed.Sphynx -> "Sphynx"
+            CatBreed.Savannah -> "Savannah"
+            CatBreed.Abyssinian -> "Abyssinian"
             else -> "Unknown"
         }
         catBiographyView.text = cat.biography

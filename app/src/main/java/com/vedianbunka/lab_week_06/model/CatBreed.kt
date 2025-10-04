@@ -1,5 +1,14 @@
 package com.vedianbunka.lab_week_06.model
 
 enum class CatBreed {
-    AmericanCurl, BalineseJavanese, ExoticShorthair
+    BalineseJavanese,
+    ExoticShorthair,
+    AmericanCurl,
+    Siberian,
+    Bengal,
+    MaineCoon,
+    Persian,
+    Sphynx,
+    Savannah,
+    Abyssinian
 }
